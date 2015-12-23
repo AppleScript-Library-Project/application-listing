@@ -7,6 +7,8 @@
 * Automator (1 dedicated suite, with 3 commands and 8 classes)
 * Bluetooth File Exchange (1 dedicated suite, with 2 commands)
 * Calendar (1 dedicated suite, with 6 commands and 8 classes)
+  * Calendar scripting:
+  * https://www.johneday.com/1086/reference-selected-calendar-events-applescript
 * Contacts (2 dedicated suites, with 7 commands and 13 classes)
 * Database Events (2 dedicated suites, with 4 commands)
 * DVD Player (1 dedicated suite, with 19 commands and 1 class)
@@ -20,11 +22,22 @@
 * iPhoto (1 dedicated suite, with 16 commands and 4 classes)
 * iTunes (1 dedicated suite, with 21 commands and 23 classes)
 * Keynote (1 dedicated suite, 2 iWorks shared suites, totaling 9 commands and 24 classes)
+  * Keynote scripting:
+  * https://iworkautomation.com/keynote/
 * Mail (2 dedicated suites, with 12 commands and 21 classes)
+  * Mail scripting:
+  * https://support.apple.com/kb/PH19119?locale=en_US
 * Messages (2 dedicated suites, with 11 commands, 9 classes and 18 elements)
 * Notes (1 dedicated suite, with 5 classes)
 * Numbers (1 dedicated suite, 2 iWorks shared suites and 1 compatibility suite, totaling  14 commands and 27 classes)
+  * Numbers scripting:
+  * https://iworkautomation.com/numbers/
+  * http://www.macworld.com/article/2090831/applescript-makes-a-comeback-in-numbers.html
 * Pages (1 dedicated suite, 2 iWorks shared suites, totaling 9 commands and 27 classes)
+  * Pages scripting:
+  * https://iworkautomation.com/pages/
+  * http://www.macworld.com/article/2138687/latest-iwork-update-is-another-win-for-applescript.html
+  * 
 * Photos (1 dedicated suite, with 13 commands and 6 classes)
 * QuickTime Player (1 dedicated suite, with 13 commands and 7 classes)
 * Reminders (1 dedicated suite, with 1 command and 4 classes)
