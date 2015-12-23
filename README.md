@@ -61,6 +61,7 @@ For reference, Apple applications that are not scriptable are:
 * Photo Booth
 * Stickies
 * Time Machine
+
 and the majority of the CoreServices
 
 A lot of the applications come with the Standard Suite (13 commands, 6 classes), the Text Suite (6 classes) and the Type Definitions Suite (1 class).
