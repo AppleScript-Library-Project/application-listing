@@ -37,7 +37,6 @@
   * Pages scripting:
   * https://iworkautomation.com/pages/
   * http://www.macworld.com/article/2138687/latest-iwork-update-is-another-win-for-applescript.html
-  * 
 * Photos (1 dedicated suite, with 13 commands and 6 classes)
 * QuickTime Player (1 dedicated suite, with 13 commands and 7 classes)
 * Reminders (1 dedicated suite, with 1 command and 4 classes)
@@ -97,6 +96,13 @@ http://www.barebones.com/products/textwrangler/
 "The super-powerful all-purpose Mac text editor and UNIX server administrator's multitool." (available **for free** from the site and the App Store)
 
 The two applications share 5 suites with 62 commands and 61 classes. Only BBEdit comes with the HTML Scripting Suite that itself has 21 commands and 4 classes.
+
+ * BBEdit and TextWrangler scripting
+ * http://bbeditextras.org/wiki/index.php?title=Scripting_and_Automation
+ * http://www.mactech.com/articles/mactech/Vol.24/24.08/ASBBEdit/index.html
+ * http://nathangrigg.net/2012/06/bbedit-search-with-applescript/
+ * http://daringfireball.net/2003/09/select_word_script_for_bbedit (based on a mail Shane wrote in 2002...)
+ * https://c-command.com/scripts/bbedit/
 
 ## Druide
 https://www.druide.com
