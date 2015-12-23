@@ -2,7 +2,54 @@
 (alphabetical order of developer, when possible, for now)
 
 ## Apple
-### 
+### El Capitan 10.11.2
+* AppleScript Utility (1 dedicated suite, with 1 class)
+* Automator (1 dedicated suite, with 3 commands and 8 classes)
+* Bluetooth File Exchange (1 dedicated suite, with 2 commands)
+* Calendar (1 dedicated suite, with 6 commands and 8 classes)
+* Contacts (2 dedicated suites, with 7 commands and 13 classes)
+* Database Events (2 dedicated suites, with 4 commands)
+* DVD Player (1 dedicated suite, with 19 commands and 1 class)
+* Finder (6 dedicated suites, including a legacy suite, with 11 commands and 25 classes)
+* Folder Actions Setup (2 dedicated suites, with 2 commands and 3 classes)
+* Font Book (1 dedicated suite, with 3 commands and 9 classes)
+* GPS Services (1 dedicated suite, with 1 command)
+* HelpViewer (1 dedicated suite, with 6 commands and 1 class)
+* Image Events (2 dedicated suites, with 10 commands and 5 classes)
+* Instruments (1 dedicated suite, with 1 command and 3 classes)
+* iPhoto (1 dedicated suite, with 16 commands and 4 classes)
+* iTunes (1 dedicated suite, with 21 commands and 23 classes)
+* Keynote (1 dedicated suite, 2 iWorks shared suites, totaling 9 commands and 24 classes)
+* Mail (2 dedicated suites, with 12 commands and 21 classes)
+* Messages (2 dedicated suites, with 11 commands, 9 classes and 18 elements)
+* Notes (1 dedicated suite, with 5 classes)
+* Numbers (1 dedicated suite, 2 iWorks shared suites and 1 compatibility suite, totaling  14 commands and 27 classes)
+* Pages (1 dedicated suite, 2 iWorks shared suites, totaling 9 commands and 27 classes)
+* Photos (1 dedicated suite, with 13 commands and 6 classes)
+* QuickTime Player (1 dedicated suite, with 13 commands and 7 classes)
+* Reminders (1 dedicated suite, with 1 command and 4 classes)
+* Safari (1 dedicated suite, with 5 commands and 3 classes)
+* Screen Sharing (1 dedicated suite, with 1 command)
+* Script Editor (1 dedicated suite, with 4 commands and 8 classes)
+* SpeechRecognitionServer (1 dedicated suite, with 3 commands)
+* StandardAdditions (9 dedicated suites, with 55 commands and 4 classes)
+* SystemEvents (20 dedicated suite, with 20 commands and 118 classes)
+* System Information (1 dedicated suite, with 1 command and 2 classes)
+* System Preferences (1 dedicated suite, with 2 commands and 3 classes)
+* Terminal (1 dedicated suite, with 1 command and 3 classes)
+* TextEdit (1 dedicated suite, with 2 classes)
+* VoiceOver (1 dedicated suite, with 14 commands and 9 classes)
+* Xcode (7 dedicated suites, with 14 commands and 53 classes)
+
+Applications that do not have dedicated suites are:
+* iBook Author
+* iMovie
+* Maps
+* Preview
+
+A lot of the applications come with the Standard Suite (13 commands, 6 classes), the Text Suite (6 classes) and the Type Definitions Suite (1 class).
+
+(Script Editor seems to freeze when trying to open a dictionary for Photo Library Migration Utility)
 
 ## Barebones
 http://www.barebones.com
@@ -19,7 +66,7 @@ http://www.barebones.com/products/textwrangler/
 
 "The super-powerful all-purpose Mac text editor and UNIX server administrator's multitool." (available **for free** from the site and the App Store)
 
-The two applications share 5 suites with plenty of text editing related commands/classes/elements and properties. Only BBEdit comes with the HTML Scripting Suite that itself has 21 commands and 4 classes.
+The two applications share 5 suites with 62 commands and 61 classes. Only BBEdit comes with the HTML Scripting Suite that itself has 21 commands and 4 classes.
 
 ## Druide
 https://www.druide.com
