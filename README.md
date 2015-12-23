@@ -41,11 +41,27 @@
 * VoiceOver (1 dedicated suite, with 14 commands and 9 classes)
 * Xcode (7 dedicated suites, with 14 commands and 53 classes)
 
-Applications that do not have dedicated suites are:
+Applications that are scriptable but that do not have dedicated suites are:
 * iBook Author
 * iMovie
 * Maps
 * Preview
+
+For reference, Apple applications that are not scriptable are:
+* Calculator
+* Chess
+* Dashboard
+* Dictionary
+* FaceTime
+* Game Center
+* iBooks
+* Image Capture
+* Launchpad
+* Mission Control
+* Photo Booth
+* Stickies
+* Time Machine
+and the majority of the CoreServices
 
 A lot of the applications come with the Standard Suite (13 commands, 6 classes), the Text Suite (6 classes) and the Type Definitions Suite (1 class).
 
