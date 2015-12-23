@@ -135,6 +135,18 @@ A note taking, organizing, and archiving application, available both from the si
 ## Notational Velocity
 * Notational Velocity (free software, GPL v3)
 
+## Qsatoolworks
+
+http://www.qsatoolworks.com
+
+* Helix
+
+http://www.qsatoolworks.com/product/helix62/
+
+Database application development and deployment tools. Helix is "one of the original thirty software products created for the Macintosh platform prior to its debut in 1984.” (1) Available only from the site. Helix comes with full Applescript support. It's dictionary is available online at: http://www.qsatoolworks.com/products/applescript/dictionary/. QSAToolworks also offers scripts at: http://www.qsatoolworks.com/scripting/scripts/ along with a "Learning AppleScript with Helix" newsletter.
+
+(1) Quoted from QSAToolworks' Matt Strange mail to the AppleScript list on December 24 2015.
+
 ## Shane Stanley
 * ASObjC Explorer 4
 
